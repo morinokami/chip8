@@ -6,7 +6,7 @@
 
 ```sh
 $ python3 -m venv venv
-$ pip -r requirements.txt
+$ pip install -r requirements.txt
 $ make help
 usage: make ROM=[rom]
 
