@@ -1,4 +1,6 @@
-# CHIP-8 emulator written in Python
+# (Yet Another) CHIP-8 Emulator
+
+<image src="https://github.com/morinokami/chip8/blob/master/resources/screen.gif?raw=true" />
 
 ## Usage
 
